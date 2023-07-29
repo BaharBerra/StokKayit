@@ -1,0 +1,11 @@
+C:\Users\berra\source\repos\StokKayit\StokKayit\bin\Debug\StokKayit.exe.config
+C:\Users\berra\source\repos\StokKayit\StokKayit\bin\Debug\StokKayit.exe
+C:\Users\berra\source\repos\StokKayit\StokKayit\bin\Debug\StokKayit.pdb
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.AssemblyReference.cache
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.Form1.resources
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.Properties.Resources.resources
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.GenerateResource.cache
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.CoreCompileInputs.cache
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.exe
+C:\Users\berra\source\repos\StokKayit\StokKayit\obj\Debug\StokKayit.pdb
